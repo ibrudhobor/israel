@@ -1,0 +1,30 @@
+body{
+    overflow-x: hidden;
+    color: #505962;
+}
+.navbar{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    background:rgb(0, 0, 0, .6) !important;
+}
+.navbar-nav{
+    padding-left: .7rem;
+}
+.navbar-nav .navbar-dark .navbar-link{
+    color: white;
+    padding-top: .8rem;
+}
+.navbar-nav .navbar-dark .nav-link,
+.navbar-nav .navbar-dark .nav-link:hover{
+    color: #1ebba3;
+}
+.carousel-inner{
+    height: 50%;
+}
+.narrow{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 32px;
+}

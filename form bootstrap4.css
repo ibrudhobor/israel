@@ -1,0 +1,9 @@
+body{
+    color: saddlebrown;
+    background-image: url(ferrari.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    text-transform: inherit;
+}
